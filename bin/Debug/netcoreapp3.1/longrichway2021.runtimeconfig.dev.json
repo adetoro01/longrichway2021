@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Adetoro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Adetoro\\.nuget\\packages"
+    ]
+  }
+}
